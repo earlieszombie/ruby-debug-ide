@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 
 # @param [Array<String>] versions compatible ruby versions
 # @return [Array<String>] an array with mri platforms of given versions
